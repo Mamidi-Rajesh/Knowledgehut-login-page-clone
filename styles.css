@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: white;
+    margin-top: 0%;
+}
+
+.coulmn1{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 0;
+}
+
+.flex{
+    display: flex;
+}
+
+.welcome{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    text-align: left;
+    padding-left: 10rem;
+    margin-right: 0.5rem;
+    font-weight: none;
+    
+}
+
+.Text{
+    font-size: 14.5px;
+    padding-top: 5px;
+    padding-left: 4.5rem;
+}
+
+
+.img {
+    width: 19rem;
+    position: relative; right: 2rem;
+    padding-bottom: 0;
+
+}
+
+.email{
+    width: 25rem;
+    height: 3.5rem;
+    margin-left: 10rem;
+    margin-top: 0.5rem;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.email:hover{
+    border-color: rgb(231, 224, 224);
+    background-color: rgb(230, 247, 250);
+    
+}
+
+
+.password{
+    width: 25rem;
+    height: 3.5rem;
+    margin-left: 10rem;
+    margin-top: 0.5rem;
+    border-radius: 5px;
+   
+    border-color: transparent;
+}
+
+.password:hover{
+    border-color: rgb(231, 224, 224);
+    background-color: rgb(230, 247, 250);
+}
+
+.row{
+    text-align: center;
+}
+
+.forgot{
+ float: left;
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ color:  rgb(154, 60, 242);
+ font-size: 15px;
+ margin-top: 10px;
+ font-weight:lighter;
+ padding-left: 10rem;
+}
+
+.login{
+    margin-left: 28rem;
+    color: white;
+    background-color: black;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;  
+}
+
+.login:hover{
+    
+}
+
+
+.socialmedia{
+    padding-top: 3rem;
+    text-align: center;
+    padding-left: 6rem;
+    color: grey;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.google{
+    width: 1.5rem;
+    padding-right: 1rem;
+    
+    background-color: #ffffff;
+    border-radius: 4px;
+   
+}
+
+.linkedin{
+    width: 1.5rem;
+    padding-left: 1rem;
+}
+
+
+.copyright{
+    color: #5b5b5b;
+    display: flex;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    line-height: 10px;
+    justify-content: center;
+    padding-top: 5rem;
+    padding-left: 4rem;
+
+}
+
+
+.coulmn2{
+    float: right;
+    padding-left: 9rem;
+    
+}
+
